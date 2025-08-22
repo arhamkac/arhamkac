@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Arham Kachhara -->
 
 <h1 align="center">Hey 👋 I'm Arham</h1>
-<h3 align="center">💻 Developer | 🧠 GenAI Explorer | ⚔️ Competitive Programmer | 🚀 Growth-Focused</h3>
+<h3 align="center">💻 Developer | 🧠 GenAI Explorer | 🚀 Growth-Focused</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+ML+Enthusiast;Lifelong+Learner+%7C+Problem+Solver;Code.+Learn.+Improve." alt="Typing animation" />
