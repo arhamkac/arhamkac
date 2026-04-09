@@ -17,7 +17,7 @@
       <p>I am a <b>Computer Science student</b> and <b>Full-Stack Developer</b> focused on creating seamless user experiences. I specialize in building robust backends and dynamic frontends.</p>
       <br>
       <p>🎯 <b>Current Goal:</b> Mastering Advanced System Architecture</p>
-      <p>⚡ <b>Fun Fact:</b> I build tools like <b>KhetKhel</b> to solve real-world accessibility issues.</p>
+      <p>⚡ <b>Fun Fact:</b> I build tools like <b>DigitalTwinAI</b> to solve real-world accessibility issues.</p>
     </td>
     <td width="45%" align="center">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 15px; border: 2px solid #00FFFF;" alt="Developer Animation" />
